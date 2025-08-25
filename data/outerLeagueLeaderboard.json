@@ -1,0 +1,37 @@
+{
+   "Lemon": {
+      "TotalCosmicEmbers": 2,
+      "LePrecipi": { "CosmicEmbersCollected": 2, "Time": "4:17", "AchievedSpeedrun": 1, "AchievedEnemies": 0},
+
+      "Alliance": "Oedon",
+      "ProfilePic": "/playerProfilePic/LemonProfilePic.png"
+   },
+   "BenderIsGreat": {
+      "TotalCosmicEmbers": 1,
+      "Le Precipi": { "CosmicEmbersCollected": 1, "Time": "5:08", "AchievedSpeedrun": 0, "AchievedEnemies": 0},
+
+      "Alliance": "Oedon",
+      "ProfilePic": ""
+   },
+   "Cronys": {
+      "TotalCosmicEmbers": 2,
+      "LePrecipi": { "CosmicEmbersCollected": 2, "Time": "22:49", "AchievedSpeedrun": 0, "AchievedEnemies": 1},
+
+      "Alliance": "Oedon",
+      "ProfilePic": ""
+   },
+   "Strump": {
+      "TotalCosmicEmbers": 2,
+      "LePrecipi": { "CosmicEmbersCollected": 2, "Time": "4:12", "AchievedSpeedrun": 1, "AchievedEnemies": 0},
+
+      "Alliance": "Oedon",
+      "ProfilePic": ""
+   },
+   "Dyrax": {
+      "TotalCosmicEmbers": 1,
+      "LePrecipi": { "CosmicEmbersCollected": 1, "Time": "5:12", "AchievedSpeedrun": 0, "AchievedEnemies": 0},
+
+      "Alliance": "Oedon",
+      "ProfilePic": ""
+   }
+}
